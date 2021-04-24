@@ -6,7 +6,9 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|![image](https://user-images.githubusercontent.com/80762665/115953089-1de78b80-a507-11eb-9ed5-b9789ecd1e4b.png)
+| ![image](https://user-images.githubusercontent.com/80762665/115953129-3d7eb400-a507-11eb-8121-c0abc078c73e.png)
+|
 
 #### CI and Code Quality
 
