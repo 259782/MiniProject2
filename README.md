@@ -1,6 +1,6 @@
-# Embedded C Programming Activity 1
+# Embedded C Programming Activity project
 
-# LED Blinking 
+# Case Study
 
 ## In Action
 
