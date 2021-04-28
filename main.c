@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author JAHNAVI JHA
- * @brief activity 1 main
+ * @brief activity 1&2 main
  * @version 0.1
  * @date 2021-04-28
  * 
