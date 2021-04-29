@@ -11,7 +11,7 @@
 #include<avr/io.h>
 #include "ADCREAD.h"
 
-uint16_t ADCREAD(uint8_t ch)
+uint16_t ReadADC(uint8_t ch)
 {
     ADMUX&=0xf8; //ADC Channel Selection
     ch=ch & 0b00000111;
@@ -25,8 +25,18 @@ uint16_t ADCREAD(uint8_t ch)
     ADCSRA|=(1<<ADIF);
     return(ADC);
 }
+
+int ADCREAD()
+{
+int value=0;
+InitADC();
+value=ReadADC(0);
+return value;
+
+}
 void InitADC()
 {
     ADMUX=(1<<REFS0); //Resolution
     ADCSRA=(1<<ADEN)|(7<<ADPS0); //enable ADC AND PRESCALAR
 }
+

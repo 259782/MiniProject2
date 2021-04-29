@@ -14,7 +14,8 @@
 #ifndef __ADCREAD_H__
 #define __ADCREAD_H__
 
-uint16_t ADCREAD(uint8_t ch);
+int ADCREAD();
+uint16_t ReadADC(uint8_t ch);
 void InitADC();
 
 #endif

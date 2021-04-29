@@ -1,5 +1,5 @@
 make.exe -f C:\Users\Jahnavi Jha\.git\Mini_Project-1\3_Implementation\Makefile --dry-run --keep-going --print-directory
-make.exe: Entering directory `c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject2'
+make.exe: Entering directory `c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject_Embedded'
  
 make.exe: C:\Users\Jahnavi: No such file or directory
  
@@ -8,5 +8,5 @@ make.exe: Failed to remake makefile `C:\Users\Jahnavi'.
  
 make.exe: *** No rule to make target `Jha\.git\Mini_Project-1\3_Implementation\Makefile'.
  
-make.exe: Leaving directory `c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject2'
+make.exe: Leaving directory `c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject_Embedded'
  

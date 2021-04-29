@@ -1,4 +1,4 @@
-PROJ_NAME = Activity12
+PROJ_NAME = EmbeddedProject
 
 BUILD_DIR = Build
 
@@ -7,6 +7,8 @@ SRC = main.c\
 src/user_utils.c\
 src/led.c\
 src/ADCREAD.c\
+src/pwmo.c\
+src/display.c\
 
 
 # All header file paths

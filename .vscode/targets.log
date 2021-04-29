@@ -6,8 +6,11 @@ make.exe all -f C:\Users\Jahnavi Jha\.git\Mini_Project-1\3_Implementation\Makefi
 # PARTICULAR PURPOSE.
 
 # This program built for i386-pc-mingw32
+ 
+make.exe: C:\Users\Jahnavi: No such file or directory
+ 
 
-# Make data base, printed on Wed Apr 28 18:12:04 2021
+# Make data base, printed on Fri Apr 30 01:17:16 2021
 
 # Variables
 
@@ -32,7 +35,7 @@ HOMEDRIVE = C:
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # makefile
-CURDIR := c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject2
+CURDIR := c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject_Embedded
 # default
 SHELL := C:/WinAVR-20100110/utils/bin/sh.exe
 # environment
@@ -58,7 +61,7 @@ SystemDrive = C:
 # environment
 CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-877fe63c-a4b7-4384-8deb-a068d1a28c56-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-970f1f7f-b98a-44a9-b693-3979db4740a0-sock
 # environment
 VSCODE_CWD = C:\Users\Jahnavi Jha\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -90,7 +93,7 @@ ProgramW6432 = C:\Program Files
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11276_XFVNWVMQDZXBCGUY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11560_NFVYCASGKRTATYDU
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -196,7 +199,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 11276
+VSCODE_PID = 11560
 # environment
 USERDOMAIN_ROAMINGPROFILE = ASUS
 # variable set hash-table stats:
@@ -208,11 +211,11 @@ USERDOMAIN_ROAMINGPROFILE = ASUS
 
 # Directories
 
-# . (key c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject2, mtime 1619607505): 11 files, no impossibilities.
+# . (key c:/Users/Jahnavi Jha/Desktop/EmbeddedC/MiniProject_Embedded, mtime 1619724853): 12 files, no impossibilities.
 # C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1619067921): 75 files, no impossibilities.
 # C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1619067972): 99 files, no impossibilities so far.
 
-# 185 files, no impossibilities in 3 directories.
+# 186 files, no impossibilities in 3 directories.
 
 # Implicit Rules
 
@@ -267,9 +270,8 @@ C:\Users\Jahnavi:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4079 / max = 4079 / min = 4079 / avg = 4079
 
-# Finished Make data base on Wed Apr 28 18:12:04 2021
+# Finished Make data base on Fri Apr 30 01:17:16 2021
 
  
-make.exe: C:\Users\Jahnavi: No such file or directory
 make.exe: *** No rule to make target `C:\Users\Jahnavi'.  Stop.
  
