@@ -8,10 +8,12 @@
 ![image](https://user-images.githubusercontent.com/80762665/116703585-141ec600-a9e8-11eb-85f7-6a0b7d88c1d6.png)
 
 ## Activity 2
+
 * Temperature Sensor
 ![image](https://user-images.githubusercontent.com/80762665/116703919-6f50b880-a9e8-11eb-8d6f-ccb21423f93f.png)
 
 ## Activity 3 and 4( Heater on and Display)
+
 * 25 degree celcius
 ![image](https://user-images.githubusercontent.com/80762665/116704430-0158c100-a9e9-11eb-962e-96ff2727ff34.png)
 
