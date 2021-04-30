@@ -21,6 +21,8 @@ The case study is divided into four activities:
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/259782/MiniProject2/actions/workflows/compile.yml/badge.svg)](https://github.com/259782/MiniProject2/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/259782/MiniProject2/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259782/MiniProject2/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/64e45f2ecb4a4e738e79c4c876f450b3)](https://www.codacy.com/gh/259782/MiniProject_Embedded/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259782/MiniProject_Embedded&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/259782/MiniProject2/actions/workflows/compile.yml/badge.svg)](https://github.com/259782/MiniProject2/actions/workflows/compile.yml)
+|[![Cppcheck](https://github.com/259782/MiniProject2/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259782/MiniProject2/actions/workflows/cppcheck.yml)
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/64e45f2ecb4a4e738e79c4c876f450b3)](https://www.codacy.com/gh/259782/MiniProject_Embedded/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259782/MiniProject_Embedded&amp;utm_campaign=Badge_Grade)|
 
 
