@@ -38,22 +38,22 @@ void pwmo()
         if(ADC_val > 0 && ADC_val <= 200) //Temperature conditions as specified in case study
         {
             OCR0A = 51;  //20 degrees 20% duty cycle
-            display("20 degrees temperature \n");
+            display("Temperature: 20 deg C \n");
         }
         else if(ADC_val > 210 && ADC_val <= 500) //Temperature conditions as specified in case study
         {
             OCR0A = 102;  //25 degrees 40% duty cycle
-         display("25 degrees temperature \n");
+         display("Temperature: 25 deg C \n");
         }
         else if(ADC_val > 510 && ADC_val <= 700) //Temperature conditions as specified in case study
         {
             OCR0A = 180;  //29 degrees 70% duty cycle
-         display("29 degrees temperature \n");
+         display("Temperature: 29 deg C \n");
         }
         else if(ADC_val > 710 && ADC_val <= 1024) //Temperature conditions as specified in case study
         {
             OCR0A = 250;   //33 degrees 95% duty cycle
-         display("33 degrees temperature \n");
+         display("Temperature: 33 deg C \n");
         }
         
     }
