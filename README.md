@@ -1,9 +1,21 @@
-# Embedded C Programming Activity project Case Study
+# Embedded C Programming Activity project Case Study- Seat Heating App
+The case study is divided into four activities:
+ 
+## Activity 1
+* To turn ON the LED given that the heater and button are pressed.
+## Activity 2
+* To Read the ADC value using potentiometer
+## Activity 3
+* To read the PWM output using CRO
+## Activity 4
+* To send serial data with the help of UART Protocol as we aren't using CAN
 
-## In Action
+## Case Study Diagram
+![image](https://user-images.githubusercontent.com/80762665/116671875-17ea2280-a9bf-11eb-9309-fca94b6fa618.png)
 
-|ON|OFF|
-|:--:|:--:|
+## Rubrics Given
+![image](https://user-images.githubusercontent.com/80762665/116672158-79aa8c80-a9bf-11eb-9476-58d712123acb.png)
+
 
 ### CI and Code Quality
 
