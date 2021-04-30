@@ -2,6 +2,7 @@
 
 ## Activity 1
 * Led is ON (Heater is ON, driver is seated)
+
 ![image](https://user-images.githubusercontent.com/80762665/116703487-f9e4e800-a9e7-11eb-8161-92c49e15b1d7.png)
 
 * Led is OFF
@@ -11,6 +12,7 @@
 ## Activity 2
 
 * Temperature Sensor
+
 ![image](https://user-images.githubusercontent.com/80762665/116703919-6f50b880-a9e8-11eb-8d6f-ccb21423f93f.png)
 
 ## Activity 3 and 4( Heater on and Display)
